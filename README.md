@@ -16,7 +16,5 @@
 - ❤️ Open Source, Video Games, Dogs
 - 😄  Pronouns: he/him
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=default&count_private=true" alt="Nick Juettner's github stats" />
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njuettner&layout=compact&theme=algolia" alt="Nick Juettner's github stats" />
-
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=algolia&count_private=true" alt="Nick Juettner's github stats" />
