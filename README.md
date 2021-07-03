@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://miro.medium.com/max/1000/1*HKlPco1yPUmhD9YB2JTnug.gif" />
+<img align="right" width="300" src="https://miro.medium.com/max/1000/1*HKlPco1yPUmhD9YB2JTnug.gif" />
 
 👋🏻 Hi there, I'm **Nick Jüttner** - Platform Engineer 
 
@@ -12,10 +12,10 @@
 - 🌏 I live in Berlin, Germany 
 - 🔭 I’m currently working on [Giant Swarm](https://www.giantswarm.io/)’s open-source infrastructure management platform 
 - 🌱 I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api)
-- 💬 Ask me about [external-dns](https://github.com/kubernetes-sigs/external-dns)
+- 💬 Ask me about [Kubernetes External DNS](https://github.com/kubernetes-sigs/external-dns)
 - 😄 Pronouns: he/him
 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njuettner&layout=compact&theme=algolia" alt="Nick Juettner's github stats" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njuettner&layout=compact&theme=algolia" alt="Nick Juettner's github stats" />
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=algolia&count_private=true" alt="Nick Juettner's github stats" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=algolia&count_private=true" alt="Nick Juettner's github stats" />
