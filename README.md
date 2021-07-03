@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://miro.medium.com/max/1000/1*HKlPco1yPUmhD9YB2JTnug.gif" />
+<img align="right" width="400" src="https://media.giphy.com/media/ZCdRHIclu9FPa/giphy.gif" />
 
 👋🏻 Hi there, I'm **Nick Jüttner**
 
