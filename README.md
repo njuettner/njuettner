@@ -6,7 +6,9 @@
 [![](https://img.shields.io/badge/njuettner-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/njuettner)
 [![](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/)](https://juni.io)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njuettner/)
- 
+
+Some facts about me:
+
 - 🌏 I live in Berlin, Germany 
 - 🔭 I’m currently working on [Giant Swarm](https://www.giantswarm.io/)’s open-source infrastructure management platform 
 - 🌱 I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api)
