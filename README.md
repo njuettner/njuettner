@@ -9,11 +9,11 @@
 
 🤓 Some facts about me:
 
-- 🌏 I live in Berlin, Germany 
-- 🔭 I’m currently working on [Giant Swarm](https://www.giantswarm.io/)’s open-source infrastructure management platform 
-- 🌱 I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api)
-- 💬 Ask me about [Kubernetes External DNS](https://github.com/kubernetes-sigs/external-dns)
-- 😄 Pronouns: he/him
+- 🌏  I live in Berlin, Germany 
+- 🔭  I’m currently working at [Giant Swarm](https://www.giantswarm.io/) as a Platform Engineer 
+- 🌱  I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api)
+- 💬  Ask me about [Kubernetes External DNS](https://github.com/kubernetes-sigs/external-dns)
+- 😄  Pronouns: he/him
 
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njuettner&layout=compact&theme=algolia" alt="Nick Juettner's github stats" />
