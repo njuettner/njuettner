@@ -1,6 +1,7 @@
 👋🏻 Hi there, I'm **Nick Jüttner**
 
-<img align="right" width="400" src="https://miro.medium.com/max/1000/1*HKlPco1yPUmhD9YB2JTnug.gif" />
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=default&count_private=true" alt="Nick Juettner's github stats" />
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@juni.io)
 [![](https://img.shields.io/badge/njuettner-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/njuettner)
@@ -15,9 +16,3 @@
 - 💬  Ask me about [Kubernetes External DNS](https://github.com/kubernetes-sigs/external-dns)
 - ❤️ Open Source, Video Games, Dogs
 - 😄  Pronouns: he/him
-
-
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=default&count_private=true" alt="Nick Juettner's github stats" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=external-dns)](https://github.com/kubernetes-sigs/external-dns)
