@@ -16,5 +16,8 @@
 - ❤️ Open Source, Video Games, Dogs
 - 😄  Pronouns: he/him
 
+
+
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=njuettner&show_icons=true&theme=default&count_private=true" alt="Nick Juettner's github stats" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=external-dns)](https://github.com/kubernetes-sigs/external-dns)
