@@ -1,6 +1,6 @@
 <img align="right" width="400" src="https://miro.medium.com/max/1000/1*HKlPco1yPUmhD9YB2JTnug.gif" />
 
-👋🏻 Hi there, I'm **Nick Jüttner** - Platform Engineer 
+👋🏻 Hi there, I'm **Nick Jüttner**
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@juni.io)
 [![](https://img.shields.io/badge/njuettner-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/njuettner)
@@ -10,7 +10,7 @@
 🤓 Some facts about me:
 
 - 🌏  I live in Berlin, Germany 
-- 🔭  I’m currently working at [Giant Swarm](https://www.giantswarm.io/) as a Platform Engineer 
+- 🔭  I’m currently working at [Giant Swarm](https://www.giantswarm.io/) as a **Platform Engineer** 
 - 🌱  I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api)
 - 💬  Ask me about [Kubernetes External DNS](https://github.com/kubernetes-sigs/external-dns)
 - 😄  Pronouns: he/him
