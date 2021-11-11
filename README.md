@@ -12,7 +12,7 @@
 
 - 🌏  I live in Berlin, Germany 
 - 🔭  I’m currently working at [Giant Swarm](https://www.giantswarm.io/) as a Platform Engineer
-- 🌱  I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api), Web3 (Smart Contracts in Solidity & React)
+- 🌱  I’m currently learning [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api) and Web3
 - 💬  Ask me about [Kubernetes External DNS](https://github.com/kubernetes-sigs/external-dns)
 - ❤️ Open Source, Video Games, Dogs
 - 😄  Pronouns: he/him
